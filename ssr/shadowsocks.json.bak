@@ -1,0 +1,8 @@
+{
+    "server": "bla.xn--fizz-p29fz65unxan79g.ga",
+    "server_port": "1025",
+    "password": "LEbZsX",
+    "obfs": "plain",
+    "method": "rc4-md5",
+    "protocol": "origin"
+}
